@@ -6,7 +6,10 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 ## Join Our Meetup Group
-- [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/) and receive event announcement.
+- [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/) to receive event announcement.
+
+## Youtube Channel
+- [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
 ## Past Hackathons
 - [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
