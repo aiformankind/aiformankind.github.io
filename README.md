@@ -11,6 +11,10 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 ## Youtube Channel
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
+## Learning Materials
+- [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md)
+- [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
+
 ## Past Hackathons
 * [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
 
