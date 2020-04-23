@@ -30,6 +30,7 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
   - Albumentations: fast and flexible image augmentations
   - FUEGO Early Fire Detection
   - Deep Learning Based Large-scale Histological Tau Protein Mapping for Neuroimaging Biomarker Validation in Alzheimer's Disease]
+  
 - [Deep Learning Based Wildfire Detection](https://www.meetup.com/AI-for-Mankind/events/264775120/)
 - [xBD Large Scale Satellite Imagery + Hotels50K datasets](https://www.meetup.com/AI-for-Mankind/events/262698783/)
 - [Demand and Opportunities in the Tech-Fashion Industry](https://www.meetup.com/AI-for-Mankind/events/260788457/)
@@ -37,6 +38,7 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 
   - Robot navigation with automated reinforcement learning
   - Detecting Political Narratives with Human-in-the-loop NLP
+  
 - [Satellite Imagery for Humanitarian Efforts and Social Entrepreneurship Contest](https://www.meetup.com/AI-for-Mankind/events/258212858/)
 - [Building Unprejudiced Datasets for AI](https://www.meetup.com/AI-for-Mankind/events/254001396/)
 - [Computer Vision for Satellite Images. How to use them for social good ](https://www.meetup.com/AI-for-Mankind/events/252659075/)
@@ -55,3 +57,5 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 - [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer at Google Brain
 - [Rebecca Krauthamer](https://www.linkedin.com/in/rkrauthamer/) CEO at Quantum Thought
 - [Haichun Chen](https://www.linkedin.com/in/haichun-chen-7a378b3/) Manager, Content Knowledge, Data Science and Engineering at Netflix
+
+
