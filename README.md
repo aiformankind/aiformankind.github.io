@@ -41,5 +41,6 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 - [Kitty Y. M. Yeung](https://www.linkedin.com/in/kittyyeung1/) Senior Program Manager - Quantum Computing at Microsoft
 - [Aleksandra Faust](https://www.linkedin.com/in/aleksandrafaust/) Deep Reinforcement Learning Researcher at Google Research with Google Brain
 - [Olya Gurevich](https://www.linkedin.com/in/ogurevich/) Co-founder/Chief Scientist at Marvelous AI
+- [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer at Google Brain
 - [Rebecca Krauthamer](https://www.linkedin.com/in/rkrauthamer/) CEO at Quantum Thought
 - [Haichun Chen](https://www.linkedin.com/in/haichun-chen-7a378b3/) Manager, Content Knowledge, Data Science and Engineering at Netflix
