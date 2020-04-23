@@ -13,11 +13,11 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 
 ## Past Hackathons
 * [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
+
   - 1st Covid-19 Online Hackathon, Saturday March 14, 2020
 
   - 2nd Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020  
-    - Main Topic: Mining Medical Literature using AI
-
+    
   - 3rd Covid-19 Online Hackathon Saturday April 4, 2020 at 10 am Pacific Time
 
   - 4th Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time
@@ -26,6 +26,7 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 
 ## Past Events
 - [Deep Learning Tech Talks](https://www.meetup.com/AI-for-Mankind/events/265983290/) 
+
   - Albumentations: fast and flexible image augmentations
   - FUEGO Early Fire Detection
   - Deep Learning Based Large-scale Histological Tau Protein Mapping for Neuroimaging Biomarker Validation in Alzheimer's Disease]
@@ -33,6 +34,7 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 - [xBD Large Scale Satellite Imagery + Hotels50K datasets](https://www.meetup.com/AI-for-Mankind/events/262698783/)
 - [Demand and Opportunities in the Tech-Fashion Industry](https://www.meetup.com/AI-for-Mankind/events/260788457/)
 - [Robot Navigation + Human In the Loop NLP](https://www.meetup.com/AI-for-Mankind/events/259397222/)
+
   - Robot navigation with automated reinforcement learning
   - Detecting Political Narratives with Human-in-the-loop NLP
 - [Satellite Imagery for Humanitarian Efforts and Social Entrepreneurship Contest](https://www.meetup.com/AI-for-Mankind/events/258212858/)
