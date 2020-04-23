@@ -59,3 +59,5 @@ AI For Mankind is a nonprofit with the mission of mobilizing the tech community 
 - [Haichun Chen](https://www.linkedin.com/in/haichun-chen-7a378b3/) Manager, Content Knowledge, Data Science and Engineering at Netflix
 
 
+## Become Our Sponsors
+[Reach out to us](https://forms.gle/ZZZbxTmYpFoHheb7A) if you are interested in becoming our sponsors.
