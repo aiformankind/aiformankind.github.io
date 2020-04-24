@@ -30,6 +30,11 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
   
 * [Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
 
+![Participants](discuss2.jpg)
+
+![Presentation](presentation1.jpg)
+
+
 ## Past Events
 - [Deep Learning Tech Talks](https://www.meetup.com/AI-for-Mankind/events/265983290/) 
 
