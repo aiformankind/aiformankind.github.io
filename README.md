@@ -33,6 +33,7 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 ![Participants in Hackathon](discuss2.jpg) ![Presentation](presentation1.jpg)
 ![Participants discussing in Hackathon](discuss1.jpg)
 
+See more event [pictures](https://www.meetup.com/AI-for-Mankind/photos/).
 
 ## Past Events
 - [Deep Learning Tech Talks](https://www.meetup.com/AI-for-Mankind/events/265983290/) 
