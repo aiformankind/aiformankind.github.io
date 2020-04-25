@@ -68,6 +68,8 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 - [Rebecca Krauthamer](https://www.linkedin.com/in/rkrauthamer/) CEO at Quantum Thought
 - [Haichun Chen](https://www.linkedin.com/in/haichun-chen-7a378b3/) Manager, Content Knowledge, Data Science and Engineering at Netflix
 
+## Volunteer Your Skills
+AI For Mankind is looking for tech savvy developers to volunteer their skills. If you are web developer, mobile developer, UI/UX, data scientist/AI experts etc, please volunteer your skills and fill out this [form](https://forms.gle/nbr36bM7tYWYdTqk7).
 
 ## Become Our Sponsors
 [Reach out to us](https://forms.gle/ZZZbxTmYpFoHheb7A) if you are interested in becoming our sponsors.
