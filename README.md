@@ -55,12 +55,13 @@ See more event [pictures](https://www.meetup.com/AI-for-Mankind/photos/).
 
   [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
 
-- **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of private tech industry with public sector in solving this wildfire crisis.
+- **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
   [Learn more about our Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
   
 - **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
 
+Once again, thank you to all our volunteers for their dedication and contribution. 
 
 ## Past Events
 - [Deep Learning Tech Talks](https://www.meetup.com/AI-for-Mankind/events/265983290/) 
