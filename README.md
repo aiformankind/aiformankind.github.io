@@ -21,6 +21,7 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 * [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
 
   - 1st Covid-19 Online Hackathon, Saturday March 14, 2020
+      - Hackathon Mentor: [Ivana Williams](https://www.linkedin.com/in/ivanajw/) Staff Research Scientist at Chan Zuckerberg Initiative
 
   - 2nd Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020  
     
@@ -29,6 +30,17 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
   - 4th Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time
   
 * [Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
+
+  - Special thanks to our Hackathon Mentors for providing guidances to the participants of Lets Stop Wildfires Hackathon.
+  
+    - [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer from Google Brain
+    - [Anna Bethke](https://www.linkedin.com/in/annabethke/), Head of AI for Social Good for Intel
+    - [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
+    - [Jigar Doshi](https://www.linkedin.com/in/jigarkdoshi/), Senior Researcher at Senior Researcher at Wadhwani AI
+    - [Kinshuk Govil](https://www.linkedin.com/in/kinshuk-govil-0080522/), Lead for Machine Learning based early wildfire detection system
+    - [Tim Ball](https://www.linkedin.com/in/tim-ball-1832a824/), President of [Fireball International](http://www.fireballit.com/)
+    - [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
+
 
 ![Participants in Hackathon](discuss2.jpg) ![Presentation](presentation1.jpg)
 ![Participants discussing in Hackathon](discuss1.jpg) ![Jigar Doshi, our very first speaker](jigar_presentation.jpeg)
