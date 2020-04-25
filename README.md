@@ -29,6 +29,7 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 
   - 4th Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time
   
+  
 * [Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
 
   - Special thanks to our Hackathon Mentors for providing guidances to the participants of Lets Stop Wildfires Hackathon.
