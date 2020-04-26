@@ -1,6 +1,8 @@
 # AI For Mankind
 
-AI For Mankind is a nonprofit with the mission of mobilizing the tech community to work on world challenging problems using AI and data. We organize tech talks, workshops, and hackathons. We want to build a grassroot community of volunteers applying AI and data to bring positive impacts to society at large.
+AI For Mankind is a nonprofit with the mission of mobilizing the tech community to work on world challenging problems using AI and Data. We organize tech talks, workshops, and hackathons. We want to build a grassroot community of volunteers creating solutions using AI and Data to bring positive impacts to society at large. 
+
+Together we can make things happen !
 
 AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-shung-chung-01326a7/) as a [meetup group](https://www.meetup.com/AI-for-Mankind/) in April 2018. It was registered as a nonprofit organization in May 2019 with pending 501(c)(3) status approval.
 
