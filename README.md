@@ -105,5 +105,8 @@ AI For Mankind is looking for tech savvy developers to volunteer their skills. I
 ## Become a Mentor
 [Join to become one of our mentors](https://forms.gle/L4JLz3g8jyT1rptS9) to provide guidance and expertise to help our volunteers.
 
+## Our Sponsors
+[![labelbox.com](labelbox.png)](https://labelbox.com/)
+
 ## Become Our Sponsors
 [Reach out to us](https://forms.gle/ZZZbxTmYpFoHheb7A) if you are interested in becoming our sponsors.
