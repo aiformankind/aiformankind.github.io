@@ -127,6 +127,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 >*"My amateur AI/data science projects include COVID19 cases and demographic analysis, wildfire image classification and predicting bad loans from Freddie Mac data"*
 
 #### [Amit Doda](https://www.linkedin.com/in/amit-doda/) Data Scientist, Adobe India
+##### First Place Winner of [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/)
 
 >*"AI For Mankind is a great community with highly motivated and intellectual people working for the social good."* 
 
