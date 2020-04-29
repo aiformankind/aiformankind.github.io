@@ -110,6 +110,8 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 #### [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/) Tech Lead, Search Science and Marketing Demand Optimization Team at Walmart Labs 
 
+<img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="right" width="100"/>
+
 >*"There is a massive demand for developing open source projects for mankind all over the world. AI For Mankind provides such a platform where knowledge-seekers, mentors, instructors and hackers can engage together for sharing knowledge and building apps for social goods."*
 
 >*"I believe AI For Mankind has a great vision, proven execution strategy, long-term goals and unique combination of domain expertise and AI Experience."*
@@ -117,6 +119,8 @@ Once again, thank you to all our volunteers for their dedication and contributio
 >*"As an active member I could make a direct impact by working on algorithms for detecting wild-fire. Now we have a bigger responsibility to help humanity containing the spread of Covid19."*
 
 #### [Matt Tso](https://www.linkedin.com/in/matttso/) Neuroscience Post Doc, University of California, Berkeley
+
+<img src="matt_tso.png" alt="Matt Tso" align="right" width="100"/>
 
 >*"I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills for a good cause."* 
 
