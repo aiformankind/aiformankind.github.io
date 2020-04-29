@@ -146,6 +146,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 >*"My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
 solving real world challenges using data science and machine learning."*
 
+<br/>
 
 #### [Davies Odu](https://www.linkedin.com/in/davodu/) Software Developer, Microsoft
 
