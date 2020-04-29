@@ -110,15 +110,16 @@ solving real world challenges using data science and machine learning.
 <img src="davies_odu.png" alt="Davies Odu" align="left" width="150"/>
 
 #### Why I Joined AI For Mankind
->I joined AI for mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of all homo sapiens.
+>I joined AI for Mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of ALL humans.
 
+>AI for Mankind brings developers and enthusiasts together with a strong vision to leverage AI for specific solutions that improve the human experience and this strongly motivates me to bring in my skills and learn from like minds.
 
 #### Bio
 >I went to college in St. Petersburg Russia then moved to the US a few years ago for my Masters at Duke. Right now I’m a Software Developer at Microsoft and AI enthusiast. 
 
 >I help build robust servers that process millions of requests daily for clients all over the planet. 
 
->I recently completed a 500hr Machine learning bootcamp and got a chance to build numerous deep learning based solutions for practical problems from an image-image search engine to modeling of COVID-19 data using social medial activities.
+>I recently completed a 500hr Machine Learning Bootcamp and got a chance to build numerous deep learning based solutions for practical problems from an image-image search engine to modeling of COVID-19 data using social medial activities.
 
 
 
