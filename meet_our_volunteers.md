@@ -89,3 +89,9 @@ object detection, image generation, super resolutions and the list just goes on.
 #### Why I Joined AI For Mankind
 >My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
 solving real world challenges using data science and machine learning.
+
+### Join AI For Mankind Slack Channel
+- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
+
+### Join AI For Mankind Meetup Group
+- [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/)
