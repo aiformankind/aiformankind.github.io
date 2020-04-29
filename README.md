@@ -99,6 +99,39 @@ Once again, thank you to all our volunteers for their dedication and contributio
 - [Rebecca Krauthamer](https://www.linkedin.com/in/rkrauthamer/) CEO at Quantum Thought
 - [Haichun Chen](https://www.linkedin.com/in/haichun-chen-7a378b3/) Manager, Content Knowledge, Data Science and Engineering at Netflix
 
+## Meet Our Volunteers
+#### [Rachael Creager](https://www.linkedin.com/in/rccreager/) Artificial Intelligence Fellow at Insight Data Science
+
+>*"I joined AI For Mankind for the CORD-19 NLP hackathon, where I am working on improving search engines and topic modeling for Covid-19 researchers. I chose this project for its usefulness as well as for the learning experience."*
+
+>*"It feels good to work on something bigger than yourself while learning skills you can use for the future!"*
+
+>*"AI For Mankind is also a great place to meet other technologists and to get exposure to different tools and ideas. The discussions during the hackathon lead me to try methods for topic modeling which I previously knew nothing about!"*
+
+#### [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/) Tech Lead, Search Science and Marketing Demand Optimization Team at Walmart Labs 
+
+>*"There is a massive demand for developing open source projects for mankind all over the world. AI For Mankind provides such a platform where knowledge-seekers, mentors, instructors and hackers can engage together for sharing knowledge and building apps for social goods."*
+
+>*"I believe AI For Mankind has a great vision, proven execution strategy, long-term goals and unique combination of domain expertise and AI Experience."*
+
+>*"As an active member I could make a direct impact by working on algorithms for detecting wild-fire. Now we have a bigger responsibility to help humanity containing the spread of Covid19."*
+
+#### [Matt Tso](https://www.linkedin.com/in/matttso/) Neuroscience Post Doc, University of California, Berkeley
+
+>*"I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills for a good cause." 
+
+>*"My amateur AI/data science projects include COVID19 cases and demographic analysis, wildfire image classification and predicting bad loans from Freddie Mac data"*
+
+#### [Amit Doda](https://www.linkedin.com/in/amit-doda/) Data Scientist, Adobe India
+
+>*"AI For Mankind is a great community with highly motivated and intellectual people working for the social good." 
+
+>*"When I came across this hackathon - Early Wildfire Smoke Detection using Deep Learning skills, I was so tempted to participate as I could see a great opportunity to use my skills and take up a problem which is so real and meaningful to solve." 
+
+>*"And there is nothing better than seeing your model deployed and tested on actual sites and seeing it help tackle a problem so big such as wildfires crisis. If that happens it would be doing my bit for the Environment."
+
+[You can learn more about our awesome volunteers here.](meet_our_volunteers.md)
+
 ## Volunteer Your Skills
 AI For Mankind is looking for tech savvy developers to volunteer their skills. If you are web developer, mobile developer, UI/UX, data scientist/AI experts etc, please volunteer your skills and fill out this [form](https://forms.gle/nbr36bM7tYWYdTqk7).
 
@@ -106,7 +139,7 @@ AI For Mankind is looking for tech savvy developers to volunteer their skills. I
 [Join to become one of our mentors](https://forms.gle/L4JLz3g8jyT1rptS9) to provide guidance and expertise to help our volunteers.
 
 ## Our Sponsors
-[![Insight Fellows Programs](insight_logo.png)](https://insightfellows.com/)[![labelbox.com](labelbox.png)](https://labelbox.com/) 
+[![Insight Fellows Programs](insight_logo.png)](https://insightfellows.com/) [![labelbox.com](labelbox.png)](https://labelbox.com/) 
 
 ## Become Our Sponsors
 [Reach out to us](https://forms.gle/ZZZbxTmYpFoHheb7A) if you are interested in becoming our sponsors.
