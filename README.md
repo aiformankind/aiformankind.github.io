@@ -118,17 +118,17 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 #### [Matt Tso](https://www.linkedin.com/in/matttso/) Neuroscience Post Doc, University of California, Berkeley
 
->*"I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills for a good cause." 
+>*"I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills for a good cause."* 
 
 >*"My amateur AI/data science projects include COVID19 cases and demographic analysis, wildfire image classification and predicting bad loans from Freddie Mac data"*
 
 #### [Amit Doda](https://www.linkedin.com/in/amit-doda/) Data Scientist, Adobe India
 
->*"AI For Mankind is a great community with highly motivated and intellectual people working for the social good." 
+>*"AI For Mankind is a great community with highly motivated and intellectual people working for the social good."* 
 
->*"When I came across this hackathon - Early Wildfire Smoke Detection using Deep Learning skills, I was so tempted to participate as I could see a great opportunity to use my skills and take up a problem which is so real and meaningful to solve." 
+>*"When I came across this hackathon - Early Wildfire Smoke Detection using Deep Learning skills, I was so tempted to participate as I could see a great opportunity to use my skills and take up a problem which is so real and meaningful to solve."* 
 
->*"And there is nothing better than seeing your model deployed and tested on actual sites and seeing it help tackle a problem so big such as wildfires crisis. If that happens it would be doing my bit for the Environment."
+>*"And there is nothing better than seeing your model deployed and tested on actual sites and seeing it help tackle a problem so big such as wildfires crisis. If that happens it would be doing my bit for the Environment."*
 
 [You can learn more about our awesome volunteers here.](meet_our_volunteers.md)
 
