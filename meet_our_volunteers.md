@@ -64,6 +64,7 @@ for a good cause.
 
 ## [Amit Doda](https://www.linkedin.com/in/amit-doda/) 
 ### Data Scientist, Adobe, India
+#### First Place Winner of [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/)
 
 #### Why I Joined AI For Mankind
 >AI For Mankind is a great community with highly motivated and intellectual people working for the social good. 
