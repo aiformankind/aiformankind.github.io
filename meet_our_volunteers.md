@@ -90,12 +90,37 @@ have happened in this space over the last 5 years.
 >Deep Learning is helping address many critical use cases in the vision domain such as image classification, 
 object detection, image generation, super resolutions and the list just goes on.
 
+
+
 ## [Anil Berry](https://www.linkedin.com/in/anil-berry-58835b1a/)
 ### Lead Software Engineer, Adobe, India
+
+<img src="anil_berry.jpg" alt="Anil Berry" align="left" width="150"/>
 
 #### Why I Joined AI For Mankind
 >My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
 solving real world challenges using data science and machine learning.
+
+
+<br/><br/>
+
+## [Davies Odu](https://www.linkedin.com/in/davodu/) 
+### Software Developer, Microsoft
+
+<img src="davies_odu.png" alt="Davies Odu" align="left" width="150"/>
+
+#### Why I Joined AI For Mankind
+>I joined AI for mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of all homo sapiens.
+
+
+#### Bio
+>I went to college in St. Petersburg Russia then moved to the US a few years ago for my Masters at Duke. Right now I’m a Software Developer at Microsoft and AI enthusiast. 
+
+>I help build robust servers that process millions of requests daily for clients all over the planet. 
+
+>I recently completed a 500hr Machine learning bootcamp and got a chance to build numerous deep learning based solutions for practical problems from an image-image search engine to modeling of COVID-19 data using social medial activities.
+
+
 
 ## Join Us
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
