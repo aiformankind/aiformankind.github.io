@@ -139,6 +139,22 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 >*"And there is nothing better than seeing your model deployed and tested on actual sites and seeing it help tackle a problem so big such as wildfires crisis. If that happens it would be doing my bit for the Environment."*
 
+#### [Anil Berry](https://www.linkedin.com/in/anil-berry-58835b1a/) Lead Software Engineer, Adobe, India
+
+<img src="anil_berry.jpg" alt="Anil Berry" align="right" width="100"/>
+
+>*"My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
+solving real world challenges using data science and machine learning."*
+
+
+#### [Davies Odu](https://www.linkedin.com/in/davodu/) Software Developer, Microsoft
+
+<img src="davies_odu.png" alt="Davies Odu" align="right" width="100"/>
+
+>*"I joined AI for mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of all homo sapiens."*
+
+
+
 [You can learn more about our awesome volunteers here.](meet_our_volunteers.md)
 
 ## Volunteer Your Skills
