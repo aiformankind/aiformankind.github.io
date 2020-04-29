@@ -152,9 +152,9 @@ solving real world challenges using data science and machine learning."*
 
 <img src="davies_odu.png" alt="Davies Odu" align="right" width="100"/>
 
->*"I joined AI for mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of all homo sapiens."*
+>*"I joined AI for Mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of ALL humans."*
 
-
+>*"AI for Mankind brings developers and enthusiasts together with a strong vision to leverage AI for specific solutions that improve the human experience and this strongly motivates me to bring in my skills and learn from like minds."*
 
 [You can learn more about our awesome volunteers here.](meet_our_volunteers.md)
 
