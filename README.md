@@ -131,6 +131,8 @@ Once again, thank you to all our volunteers for their dedication and contributio
 #### [Amit Doda](https://www.linkedin.com/in/amit-doda/) Data Scientist, Adobe India
 ##### First Place Winner of [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/)
 
+<img src="amit_doda.png" alt="Amit Doda" align="right" width="100"/>
+
 >*"AI For Mankind is a great community with highly motivated and intellectual people working for the social good."* 
 
 >*"When I came across this hackathon - Early Wildfire Smoke Detection using Deep Learning skills, I was so tempted to participate as I could see a great opportunity to use my skills and take up a problem which is so real and meaningful to solve."* 
