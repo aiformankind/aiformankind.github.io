@@ -1,5 +1,5 @@
 # Meet Our Volunteers
-Meet and learn about our awesome AI For Mankind's volunteers ! Thank you for their continued supports and contributions. Without our volunteers, our success wouldn’t have been possible.
+Meet and learn about some of our awesome AI For Mankind's volunteers ! Thank you all our volunteers for their continued supports and contributions. Without our volunteers, our success wouldn’t have been possible.
 
 ## [Rachael Creager](https://www.linkedin.com/in/rccreager/) 
 ### Artificial Intelligence Fellow at Insight Data Science
