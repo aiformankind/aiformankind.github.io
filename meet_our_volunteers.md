@@ -20,6 +20,8 @@ I have a strong background in data engineering as well as open-ended research.
 ## [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/) 
 ### Tech Lead, Search Science and Marketing Demand Optimization Team at Walmart Labs 
 
+<img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="left" width="150"/>
+
 #### Why I Joined AI For Mankind
 >There is a massive demand for developing open source projects for mankind all over the world. 
 AI For Mankind provides such a platform where knowledge seekers, mentors, instructors and hackers can engage together for 
@@ -46,6 +48,8 @@ building ML Algorithms, Experimentation platforms, Actionable analytics and Big 
 
 ## [Matt Tso](https://www.linkedin.com/in/matttso/)
 ### Neuroscience Post Doc, University of California, Berkeley
+
+<img src="matt_tso.png" alt="Matt Tso" align="left" width="150"/>
 
 #### Why I Joined AI For Mankind
 >I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills 
