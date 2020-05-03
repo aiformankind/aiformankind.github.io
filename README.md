@@ -104,7 +104,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 ## Meet Our Volunteers
 #### [Rachael Creager](https://www.linkedin.com/in/rccreager/) Artificial Intelligence Fellow at Insight Data Science
 
-<img src="rachael_creager.jpg" alt="Rachael Creager" align="right" width="100"/>
+<img src="rachael_creager.jpg" alt="Rachael Creager" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
 >*"I joined AI For Mankind for the CORD-19 NLP hackathon, where I am working on improving search engines and topic modeling for Covid-19 researchers. I chose this project for its usefulness as well as for the learning experience."*
 
@@ -114,7 +114,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 #### [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/) Tech Lead, Search Science and Marketing Demand Optimization Team at Walmart Labs 
 
-<img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="right" width="100"/>
+<img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
 >*"There is a massive demand for developing open source projects for mankind all over the world. AI For Mankind provides such a platform where knowledge-seekers, mentors, instructors and hackers can engage together for sharing knowledge and building apps for social goods."*
 
@@ -124,7 +124,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 #### [Matt Tso](https://www.linkedin.com/in/matttso/) Neuroscience Post Doc, University of California, Berkeley
 
-<img src="matt_tso.png" alt="Matt Tso" align="right" width="100"/>
+<img src="matt_tso.png" alt="Matt Tso" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
 >*"I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills for a good cause."* 
 
@@ -133,7 +133,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 #### [Amit Doda](https://www.linkedin.com/in/amit-doda/) Data Scientist, Adobe India
 ##### First Place Winner of [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/)
 
-<img src="amit_doda.png" alt="Amit Doda" align="right" width="100"/>
+<img src="amit_doda.png" alt="Amit Doda" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
 >*"AI For Mankind is a great community with highly motivated and intellectual people working for the social good."* 
 
@@ -143,7 +143,7 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 #### [Anil Berry](https://www.linkedin.com/in/anil-berry-58835b1a/) Lead Software Engineer, Adobe, India
 
-<img src="anil_berry.jpg" alt="Anil Berry" align="right" width="100"/>
+<img src="anil_berry.jpg" alt="Anil Berry" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
 >*"My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
 solving real world challenges using data science and machine learning."*
@@ -152,7 +152,7 @@ solving real world challenges using data science and machine learning."*
 
 #### [Davies Odu](https://www.linkedin.com/in/davodu/) Software Developer, Microsoft
 
-<img src="davies_odu.png" alt="Davies Odu" align="right" width="100"/>
+<img src="davies_odu.png" alt="Davies Odu" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
 >*"I joined AI for Mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of ALL humans."*
 
