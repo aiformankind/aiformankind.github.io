@@ -52,7 +52,9 @@ See more event [pictures](https://www.meetup.com/AI-for-Mankind/photos/).
 
 ## Our Projects
 - **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
-
+  
+  Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
+  
   We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
 
   [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
