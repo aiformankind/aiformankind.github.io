@@ -24,7 +24,7 @@ I have a strong background in data engineering as well as open-ended research.
 ## [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/) 
 ### Tech Lead, Search Science and Marketing Demand Optimization Team at Walmart Labs 
 
-<img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="left" width="150"/>
+<img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
 #### Why I Joined AI For Mankind
 >There is a massive demand for developing open source projects for mankind all over the world. 
@@ -53,7 +53,7 @@ building ML Algorithms, Experimentation platforms, Actionable analytics and Big 
 ## [Matt Tso](https://www.linkedin.com/in/matttso/)
 ### Neuroscience Post Doc, University of California, Berkeley
 
-<img src="matt_tso.png" alt="Matt Tso" align="left" width="150"/>
+<img src="matt_tso.png" alt="Matt Tso" align="left"  style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
 #### Why I Joined AI For Mankind
 >I joined AI For Mankind to sharpen my skills in AI and networking. And overall, I just love the idea to volunteer my skills 
@@ -68,7 +68,7 @@ for a good cause.
 ### Data Scientist, Adobe, India
 #### First Place Winner of [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/)
 
-<img src="amit_doda.png" alt="Amit Doda" align="left" width="150"/>
+<img src="amit_doda.png" alt="Amit Doda" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
 #### Why I Joined AI For Mankind
 >AI For Mankind is a great community with highly motivated and intellectual people working for the social good. 
@@ -95,7 +95,7 @@ object detection, image generation, super resolutions and the list just goes on.
 ## [Anil Berry](https://www.linkedin.com/in/anil-berry-58835b1a/)
 ### Lead Software Engineer, Adobe, India
 
-<img src="anil_berry.jpg" alt="Anil Berry" align="left" width="150"/>
+<img src="anil_berry.jpg" alt="Anil Berry" align="left"  style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
 #### Why I Joined AI For Mankind
 >My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
@@ -107,7 +107,7 @@ solving real world challenges using data science and machine learning.
 ## [Davies Odu](https://www.linkedin.com/in/davodu/) 
 ### Software Developer, Microsoft
 
-<img src="davies_odu.png" alt="Davies Odu" align="left" width="150"/>
+<img src="davies_odu.png" alt="Davies Odu" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
 #### Why I Joined AI For Mankind
 >I joined AI for Mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of ALL humans.
