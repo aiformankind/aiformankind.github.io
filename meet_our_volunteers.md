@@ -4,7 +4,7 @@ Meet and learn about some of our awesome AI For Mankind's volunteers ! Thank you
 ## [Rachael Creager](https://www.linkedin.com/in/rccreager/) 
 ### Artificial Intelligence Fellow at Insight Data Science
 
-<img src="rachael_creager.jpg" alt="Rachael Creager" align="left" width="150"/>
+<img src="rachael_creager.jpg" alt="Rachael Creager" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
 #### Why I Joined AI For Mankind
 >I joined AI For Mankind for the CORD-19 NLP hackathon, where I am working on improving search engines and topic modeling for Covid-19 researchers. 
