@@ -16,8 +16,8 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
 ## Learning Materials
-- [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md)
-- [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
+- [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb). We built this wildfire smoke classification notebook so that you can adapt it easily to classify other types of images.
+- [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md) contributed by our volunteers and participants of our hackathons.
 
 ## Our Projects
 - **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
