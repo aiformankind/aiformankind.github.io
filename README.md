@@ -19,6 +19,25 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 - [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md)
 - [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
 
+## Our Projects
+- **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
+  
+  Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
+  
+  You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
+  
+  We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
+
+  [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
+
+- **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
+
+  [Learn more about our Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
+  
+- **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
+
+Once again, thank you to all our volunteers for their dedication and contribution. 
+
 ## Past Hackathons
 * [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
 
@@ -50,22 +69,6 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 
 See more event [pictures](https://www.meetup.com/AI-for-Mankind/photos/).
 
-## Our Projects
-- **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
-  
-  Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
-  
-  We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
-
-  [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
-
-- **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
-
-  [Learn more about our Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
-  
-- **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
-
-Once again, thank you to all our volunteers for their dedication and contribution. 
 
 ## Past Events
 - [Deep Learning Tech Talks](https://www.meetup.com/AI-for-Mankind/events/265983290/) 
