@@ -1,6 +1,6 @@
 # AI For Mankind
 
-AI For Mankind is a 501(c)(3) nonprofit with the mission of mobilizing the tech community to work on world challenging problems using AI and Data. We organize tech talks, workshops, and hackathons. We want to build a grassroot community of volunteers creating solutions using AI and Data to bring positive impacts to society at large. 
+AI For Mankind is a 501(c)(3) nonprofit organization with the mission of mobilizing the tech community to work on world challenging problems using AI and Data. We organize tech talks, workshops, and hackathons. We want to build a grassroot community of volunteers creating solutions using AI and Data to bring positive impacts to society at large. 
 
 Together we can make things happen !
 
