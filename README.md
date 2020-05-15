@@ -4,7 +4,7 @@ AI For Mankind is a 501(c)(3) nonprofit with the mission of mobilizing the tech 
 
 Together we can make things happen !
 
-AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-shung-chung-01326a7/) as a [meetup group](https://www.meetup.com/AI-for-Mankind/) in April 2018. It was registered as a nonprofit organization in May 2019.
+AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-shung-chung-01326a7/) as a [meetup group](https://www.meetup.com/AI-for-Mankind/) in April 2018. It was registered as a nonprofit organization in May 2019.
 
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
@@ -16,7 +16,7 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
 ## Learning Materials
-- [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb). We built this wildfire smoke classification notebook so that you can adapt it easily to classify other types of images.
+- [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb). We built this wildfire smoke classification notebook as a quickstart notebook for our [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/). However you can adapt it easily to classify other types of images.
 - [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md) contributed by our volunteers and participants of our hackathons.
 
 ## Our Projects
@@ -25,6 +25,8 @@ AI For Mankind is founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-s
   Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
   
   You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
+  
+  Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
   
   We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
 
