@@ -40,10 +40,6 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
 Once again, thank you to all our volunteers for their dedication and contribution. 
 
-## Donate to AI For Mankind
-Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission. Thank you ! 
-
-AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 
 ## Past Hackathons
 * [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
@@ -76,6 +72,10 @@ AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 
 See more event [pictures](https://www.meetup.com/AI-for-Mankind/photos/).
 
+## Donate to AI For Mankind
+Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission. Thank you ! 
+
+AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 
 ## Past Events
 - [Deep Learning Tech Talks](https://www.meetup.com/AI-for-Mankind/events/265983290/) 
@@ -182,4 +182,7 @@ AI For Mankind is looking for tech savvy developers to volunteer their skills. I
 ## Become Our Sponsors
 [Reach out to us](https://forms.gle/ZZZbxTmYpFoHheb7A) if you are interested in becoming our sponsors.
 
+## Donate to AI For Mankind
+Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission. Thank you ! 
 
+AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
