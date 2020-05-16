@@ -122,6 +122,15 @@ solving real world challenges using data science and machine learning.
 >I recently completed a 500hr Machine Learning Bootcamp and got a chance to build numerous deep learning based solutions for practical problems from an image-image search engine to modeling of COVID-19 data using social medial activities.
 
 
+## Aarnav Sawant
+### High school freshman at Bellarmine College Preparatory
+
+<img src="aarnav.jpg" alt="Aarnav Sawant" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
+
+>The world is definitely changing first with Wildfires and now with COVID-19. AI For Mankind has done exceedingly great work to help find solutions to these real-world problems, and I hope to contribute to this cause and help make this world a better place. I have most recently been working on a Deep Learning project to diagnose COVID-19 using Chest X-Ray Images.
+
+#### Bio
+>I am a high school freshman at Bellarmine College Preparatory. From a very young age, I have always been fascinated by how data and technology can help solve real world problems and help humanity. I am part of the software team for Team 254, a nationally ranked robotics team, and am proficient in Java, Python, and AI.
 
 ## Join Us
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
