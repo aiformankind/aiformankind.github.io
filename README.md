@@ -158,6 +158,7 @@ AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 >*"My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
 solving real world challenges using data science and machine learning."*
 
+<br/>
 
 #### [Davies Odu](https://www.linkedin.com/in/davodu/) Software Developer, Microsoft
 
@@ -172,7 +173,7 @@ solving real world challenges using data science and machine learning."*
 
 <img src="aarnav.jpg" alt="Aarnav Sawant" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
 
->*"The world is definitely changing first with Wildfires and now with COVID-19. AIForMankind has done exceedingly great work to help find solutions to these real-world problems, and I hope to contribute to this cause and help make this world a better place. I have most recently been working on a Deep Learning project to diagnose COVID-19 using Chest X-Ray Images."*
+>*"The world is definitely changing first with Wildfires and now with COVID-19. AI For Mankind has done exceedingly great work to help find solutions to these real-world problems, and I hope to contribute to this cause and help make this world a better place. I have most recently been working on a Deep Learning project to diagnose COVID-19 using Chest X-Ray Images."*
 
 
 [You can learn more about our awesome volunteers here.](meet_our_volunteers.md)
