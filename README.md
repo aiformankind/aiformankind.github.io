@@ -72,8 +72,8 @@ Once again, thank you to all our volunteers for their dedication and contributio
 
 See more event [pictures](https://www.meetup.com/AI-for-Mankind/photos/).
 
-## Donate to AI For Mankind
-Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission. Thank you ! 
+## Donate
+Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission.
 
 AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 
@@ -158,7 +158,6 @@ AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 >*"My motivation for joining AI For Mankind is the collaboration, learning from each other, and to contribute in 
 solving real world challenges using data science and machine learning."*
 
-<br/>
 
 #### [Davies Odu](https://www.linkedin.com/in/davodu/) Software Developer, Microsoft
 
@@ -167,6 +166,14 @@ solving real world challenges using data science and machine learning."*
 >*"I joined AI for Mankind because I’m very excited about the economic and social advantages that AI and big data will bring to humanity how it might be leveraged with wisdom to improve the lives of ALL humans."*
 
 >*"AI for Mankind brings developers and enthusiasts together with a strong vision to leverage AI for specific solutions that improve the human experience and this strongly motivates me to bring in my skills and learn from like minds."*
+
+
+#### Aarnav Sawant, High school freshman at Bellarmine College Preparatory
+
+<img src="aarnav.jpg" alt="Aarnav Sawant" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
+
+>*"The world is definitely changing first with Wildfires and now with COVID-19. AIForMankind has done exceedingly great work to help find solutions to these real-world problems, and I hope to contribute to this cause and help make this world a better place. I have most recently been working on a Deep Learning project to diagnose COVID-19 using Chest X-Ray Images."*
+
 
 [You can learn more about our awesome volunteers here.](meet_our_volunteers.md)
 
@@ -182,7 +189,7 @@ AI For Mankind is looking for tech savvy developers to volunteer their skills. I
 ## Become Our Sponsors
 [Reach out to us](https://forms.gle/ZZZbxTmYpFoHheb7A) if you are interested in becoming our sponsors.
 
-## Donate to AI For Mankind
-Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission. Thank you ! 
+## Donate
+Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission.
 
 AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
