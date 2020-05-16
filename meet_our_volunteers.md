@@ -136,3 +136,8 @@ solving real world challenges using data science and machine learning.
 ## Join Us
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 - [AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/)
+
+## Donate
+Your tax-deductible [donation](https://donorbox.org/donate-to-ai-for-mankind?default_interval=o) today will help support our mission.
+
+AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
