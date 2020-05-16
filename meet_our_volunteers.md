@@ -127,6 +127,7 @@ solving real world challenges using data science and machine learning.
 
 <img src="aarnav.jpg" alt="Aarnav Sawant" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="150"/>
 
+#### Why I Joined AI For Mankind
 >The world is definitely changing first with Wildfires and now with COVID-19. AI For Mankind has done exceedingly great work to help find solutions to these real-world problems, and I hope to contribute to this cause and help make this world a better place. I have most recently been working on a Deep Learning project to diagnose COVID-19 using Chest X-Ray Images.
 
 #### Bio
