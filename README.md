@@ -27,7 +27,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
   <br/>
   
-  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="300"/><img src="eggplantClassifier.png" alt="Eggplant" style="float: left; margin: 3px 12px 3px 0px;" width="350"/>
+  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="300"/><img src="eggplantClassifier.png" alt="Eggplant" width="350"/>
   
   <br/>
   
