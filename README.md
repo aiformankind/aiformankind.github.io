@@ -29,6 +29,8 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   
   <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="300"/><img src="eggplantClassifier.png" alt="Eggplant" style="float: left; margin: 3px 12px 3px 0px;" width="350"/>
   
+  <br/>
+  
   Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
   
   We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
