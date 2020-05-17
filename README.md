@@ -25,12 +25,15 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
   
   You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
+  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="300"/>
   
   Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
   
   We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
 
   [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
+
+<br/>
 
 - **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
