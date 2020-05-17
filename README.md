@@ -33,7 +33,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
   [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
 
-<br/>
+<br/><br/>
 
 - **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
