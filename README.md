@@ -25,7 +25,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
   
   You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
-  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="300"/>
+  <br/>
+  
+  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" style="float: left; margin: 3px 12px 3px 0px;" width="300"/><img src="eggplantClassifier.png" alt="Eggplant" style="float: left; margin: 3px 12px 3px 0px;" width="350"/>
   
   Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
   
