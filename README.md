@@ -27,13 +27,16 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
   <br/>
   
-  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="300"/><img src="eggplantClassifier.png" alt="Eggplant" width="350"/>
+  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="350"/><img src="eggplantClassifier.png" alt="Eggplant" width="350"/>
   
-  <img src="carrotLabeling.png" alt="Fruit Veggie Classifier" align="left" width="300"/><img src="cherryTomatoLabeling.png" alt="Eggplant" width="350"/>
+  <img src="cherryTomatoLabeling.png" alt="Annotate cherry tomato" align="left" width="350"/><img src="carrotLabeling.png" alt="Annotate carrot" width="350"/>
+  
+  <br/>
+  <br/>
    
-  Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
+Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
   
-  We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
+We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
 
   [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
 
