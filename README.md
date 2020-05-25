@@ -15,6 +15,10 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 ## Youtube Channel
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
+## Upcoming Events
+- [Lets Annotate Wildfire Smoke Images](https://www.meetup.com/AI-for-Mankind/events/270718685/)
+- [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/)
+
 ## Learning Materials
 - [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb). We built this wildfire smoke classification notebook as a quickstart notebook for our [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/). However you can adapt it easily to classify other types of images.
 - [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md) contributed by our volunteers and participants of our hackathons.
@@ -43,7 +47,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
 - **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
-  [Learn more about our Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
+  [2019 Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
   
 - **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
 
