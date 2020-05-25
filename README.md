@@ -53,6 +53,8 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   
   [2019 Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
   
+  <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
+  
 - **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
 
 Once again, thank you to all our volunteers for their dedication and contribution. If you are interested in any of the projects, please join our [slack channel](https://tinyurl.com/vch2z68) or email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
