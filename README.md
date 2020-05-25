@@ -41,7 +41,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   
   We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
 
-  [Seeing the World Project Github](https://github.com/aiformankind/seeing-the-world)
+  [Latest Repo: Seeing the World 2.0 Project](https://github.com/aiformankind/seeing-the-world-2.0) 
+  
+  [Old version: Seeing the World Project](https://github.com/aiformankind/seeing-the-world)
 
 <br/>
 
@@ -51,7 +53,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   
 - **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
 
-Once again, thank you to all our volunteers for their dedication and contribution. 
+Once again, thank you to all our volunteers for their dedication and contribution. If you are interested in any of the projects, please join our [slack channel](https://tinyurl.com/vch2z68) or email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
 
 
 ## Past Hackathons
