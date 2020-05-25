@@ -16,8 +16,8 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
 ## Upcoming Events
-- [Lets Annotate Wildfire Smoke Images](https://www.meetup.com/AI-for-Mankind/events/270718685/)
-- [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/)
+- [Lets Annotate Wildfire Smoke Images](https://www.meetup.com/AI-for-Mankind/events/270718685/) May 30 at 10 am Pacific Time
+- [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/) to build deployable wildfire smoke detector. Register [Now](https://forms.gle/wM7zRPFMUQptpygX9)
 
 ## Learning Materials
 - [Wildfire Smoke Detection Colab Notebook](https://github.com/aiformankind/lets-stop-wildfires-hackathon/blob/master/Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb). We built this wildfire smoke classification notebook as a quickstart notebook for our [Lets Stop Wildfires Hackathon](https://aiformankind.org/lets-stop-wildfires-hackathon/). However you can adapt it easily to classify other types of images.
