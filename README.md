@@ -24,28 +24,6 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 - [Covid-19 Data Exploratory Notebooks](data_exploratory_notebooks.md) contributed by our volunteers and participants of our hackathons.
 
 ## Our Projects
-- **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
-  
-  Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
-  
-  You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
-  <br/>
-  
-  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="350"/><img src="eggplantClassifier.png" alt="Eggplant" width="350"/>
-  
-  <img src="cherryTomatoLabeling.png" alt="Annotate cherry tomato" align="left" width="350"/><img src="carrotLabeling.png" alt="Annotate carrot" width="350"/>
-  
-  <br/>
-   
-  Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
-  
-  We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility). [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
-
-  [Latest Repo: Seeing the World 2.0 Project](https://github.com/aiformankind/seeing-the-world-2.0) 
-  
-  [Old version: Seeing the World Project](https://github.com/aiformankind/seeing-the-world)
-
-<br/>
 
 - **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
@@ -63,18 +41,44 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 <br clear="right"/>
 
-  We organized stop wildfires hackathons. You can learn more below. 
+  We continue to organize a series of Lets Stop Wildfires Hackathons. You can learn more below. 
   
   [2020 Lets Stop Wildfires Hackathon 2.0](https://aiformankind.github.io/lets-stop-wildfires-hackathon-2.0/)
   
   [2019 Lets Stop Wildfires Hackathon](https://aiformankind.github.io/lets-stop-wildfires-hackathon/)
   
   <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
+
+<br/>
+
+- **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
+  
+  Take and share fruit or vegetable pictures taken via your mobile phone with us. Click here [seeingtheworld.live](https://seeingtheworld.live/) to submit.
+  
+  You can test out our fruit and veggie classifier [here](https://fruit-veggie-classifier.azurewebsites.net/).
+  <br/>
+  
+  <img src="TestOutClassifier.png" alt="Fruit Veggie Classifier" align="left" width="350"/><img src="eggplantClassifier.png" alt="Eggplant" width="350"/>
+  
+  <img src="cherryTomatoLabeling.png" alt="Annotate cherry tomato" align="left" width="350"/><img src="carrotLabeling.png" alt="Annotate carrot" width="350"/>
+  
+  <br/>
+   
+  Download our curated fruit and veggie [dataset](https://www.dropbox.com/s/ebcmhynglu23zd9/fruit_veggie_farmermarket_grocerystore.tar.gz).
+  
+  **We are proud to be selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility).** [Read our project blog](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
+
+  [Latest Repo: Seeing the World 2.0 Project](https://github.com/aiformankind/seeing-the-world-2.0) 
+  
+  [Old version: Seeing the World Project](https://github.com/aiformankind/seeing-the-world)
+
+<br/>
   
 - **Healthcare: Combat Covid-19 Pandemic Project** We organize series of online hackathons to work on ideas and build useful applications to help everyone in combating Covid-19. [See contributions by our participants](https://aiformankind.org/covid-19-hackathon/#exploratory-data-analysis-notebooks-built-by-hackathon-participants).
 
 Once again, thank you to all our volunteers for their dedication and contribution. If you are interested in any of the projects, please join our [slack channel](https://tinyurl.com/vch2z68) or email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
 
+<br/>
 
 ## Past Hackathons
 * [Covid-19 Online Hackathon](https://aiformankind.github.io/covid-19-hackathon/)
