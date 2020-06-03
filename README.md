@@ -42,7 +42,8 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
 <br clear="right"/>
 
-  
+<br/>
+
   3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
 
 <br/>
