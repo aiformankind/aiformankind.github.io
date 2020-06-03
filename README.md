@@ -31,25 +31,25 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
  1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
-<br/>
-   <a href="https://youtu.be/CcbXdcMEQvs"><img src="images/smoke_detector_in_action_13mins_detected.png" width="500" ></a>
-<br clear="right"/>
+    <br/>
+    <a href="https://youtu.be/CcbXdcMEQvs"><img src="images/smoke_detector_in_action_13mins_detected.png" width="500" ></a>
+    <br clear="right"/>
 
  2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition. See video below.
 
-<br/>
+    <br/>
     <a href="https://youtu.be/X_QvjA1-Nb4"><img src="images/smoke_detector_in_action_3mins_detected.png" width="500" ></a>
 
-<br clear="right"/>
+    <br clear="right"/>
 
-<br/>
+    <br/>
 
  3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
 
-<br/>
+    <br/>
 
-<img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
-<br clear="right"/>
+    <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
+    <br clear="right"/>
 
   We continue to organize a series of Lets Stop Wildfires Hackathons. You can learn more below. 
   
@@ -59,7 +59,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
   
   <img src="images/image2BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/><img src="images/image1BoundingBoxAfter871Steps1.png" alt="Wildfire Smoke Detector in Action" width="400"/>
 
-<br/>
+  <br/>
 
 - **Seeing the World Project** to build a more accessible and navigable physical world for people who are blind or have low vision. 
   
