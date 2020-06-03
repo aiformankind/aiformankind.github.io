@@ -35,16 +35,16 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 <img src="images/20200205_FIRE_hp-w-mobo-c_1580927851_+00780_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
 <br clear="right"/>
 
-  2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition. See video below.
+ 2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition. See video below.
 
 <br/>
-<a href="https://youtu.be/X_QvjA1-Nb4"><img src="images/smoke_detector_in_action_3mins_detected.png" width="500" ></a>
+    <a href="https://youtu.be/X_QvjA1-Nb4"><img src="images/smoke_detector_in_action_3mins_detected.png" width="500" ></a>
 
 <br clear="right"/>
 
 <br/>
 
-  3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
+ 3. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
 
 <br/>
 
