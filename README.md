@@ -30,7 +30,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
 - **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
-  AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+  AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
  1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
@@ -53,6 +53,15 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
     <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
     <br clear="right"/>
+
+   We ran AI For Mankind's wildfire smoke detector aka "The Super Duper" against past HPWREN images of several fires, here are the promising results obtained.
+
+   - 20191006: Detected smoke ~6 mins after fire ignition (HPWREN ml w mobo c) https://youtu.be/wt1sQyRjoCI
+   - 20191006: Detected smoke ~3 mins after fire ignition (HPWREN pi s mobo c) https://youtu.be/e9T_8coM20M
+   - 20191007: Detected smoke ~10 mins after fire ignition (HPWREN sm s mobo c) https://youtu.be/LqAxrY-Xa4w
+   - 20200206: Detected smoke ~4 mins after fire ignition (HPWREN ml s mobo c) https://youtu.be/Y3tal1-nk1Y
+   - 20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c) https://youtu.be/X_QvjA1-Nb4
+   - 20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c) https://youtu.be/CcbXdcMEQvs
 
   We continue to organize a series of Lets Stop Wildfires Hackathons. You can learn more below. 
   
