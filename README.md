@@ -15,6 +15,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 ## Join Our Meetup Group
 - [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/) to receive event announcement.
 
+## Follow Our Blog
+- [AI For Mankind's Blog](https://medium.com/@ai.for.mankind)
+
 ## Youtube Channel
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
