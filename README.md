@@ -68,6 +68,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
    - 20200206: Detected smoke ~4 mins after fire ignition (HPWREN ml s mobo c) https://youtu.be/Y3tal1-nk1Y
    - 20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c) https://youtu.be/X_QvjA1-Nb4
    - 20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c) https://youtu.be/CcbXdcMEQvs
+   - 20200615: Detected smoke ~4 mins after fire ignition (HPWREN rm e mobo c) https://youtu.be/uPSkxGjUqRk
 
   We continue to organize a series of Lets Stop Wildfires Hackathons. You can learn more below. 
   
