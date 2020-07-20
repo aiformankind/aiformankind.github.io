@@ -32,9 +32,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
 ## Our Projects
 
-- **Wildfires Smoke Detection Project** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of open datasets to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
+- **[Wildfires Smoke Detection Project](https://github.com/aiformankind/wildfire-smoke-detection-research)** to investigate and promote the use of AI Deep Learning in early wildfire smoke detection. We want to raise awareness about the crisis and rally more people/AI experts to work on this problem. We continue to promote the curation of [open datasets](https://github.com/aiformankind/wildfire-smoke-dataset) to speed up research and development. We collaborate with [HPWREN](http://hpwren.ucsd.edu/) in promoting the collaboration of our volunteers from private tech with public sector in solving this wildfire crisis.
 
-  AI For Mankind had annotated 744 wildfire smoke HPWREN images in 2019 and built a wildfire smoke detector aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
+  AI For Mankind had created [bounding box annotated wildfire smoke images](https://github.com/aiformankind/wildfire-smoke-dataset) in 2019 and built a wildfire smoke detector aka "The Super Duper" using the annotated images. It has shown promising results running against wildfire images captured by HPWREN in 2020. See below.
 
  1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
