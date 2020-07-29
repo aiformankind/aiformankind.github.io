@@ -190,6 +190,16 @@ AI For Mankind is a 501(c)(3) nonprofit organization. EIN 84-1750651
 
 >*"AI For Mankind is also a great place to meet other technologists and to get exposure to different tools and ideas. The discussions during the hackathon lead me to try methods for topic modeling which I previously knew nothing about!"*
 
+#### [Joe Tang](https://www.linkedin.com/in/joe-tang-01978427/) Senior Software Engineer In Test and Treasurer of AI For Mankind.
+
+<img src="joe_tang.png" alt="Joe Tang" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
+
+>*"I joined AI-for-Mankind in 2018 and started working on the [Seeing the World](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a) project, which was initiated with a goal of helping people with vision issues. The Seeing-the-world project showed me the idea that technology, especially Artificial Intelligence (AI), can make a difference for people in need in our society."* 
+
+>*"Being a part of the team, I have been given the opportunity to meet many passionate volunteers with various backgrounds and skills, such as engineers, data scientists, and students. This is a truly rewarding experience."* 
+
+>*"Although it is still a non-profit organization, I see a lot of potential for it to grow into an organization that can help solve problems for our communities with the passion and skills our people bring to the table."*  
+
 #### [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/) Tech Lead, Search Science and Marketing Demand Optimization Team at Walmart Labs 
 
 <img src="kaniska_profile.jpg" alt="Kaniska Mandal" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="100"/>
