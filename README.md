@@ -8,6 +8,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
  **AI For Mankind's Seeing the World project was selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility).** Read about [Seeing the World project](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
  
+ **Our wildfire smoke detection project was also selected for [Microsoft AI For Earth](https://www.microsoft.com/en-us/ai/ai-for-earth)'s grant.
  
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
@@ -21,7 +22,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 ## Youtube Channel
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
-## Upcoming Events
+## Past Events
 - [Lets Stop Wildfires Hackathon 2.0 Information Session](https://www.meetup.com/AI-for-Mankind/events/271355075/) Sunday June 28 at 9 am Pacific Time
 - [Lets Annotate Wildfire Smoke Images](https://www.meetup.com/AI-for-Mankind/events/270718685/) May 30 at 10 am Pacific Time
 - [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/) to build deployable wildfire smoke detector. Register [Now](https://forms.gle/wM7zRPFMUQptpygX9)
