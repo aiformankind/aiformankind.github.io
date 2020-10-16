@@ -8,7 +8,7 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
  **AI For Mankind's Seeing the World project was selected as one of the [Microsoft AI for Accessibility's grantees](https://www.microsoft.com/en-us/ai/ai-for-accessibility).** Read about [Seeing the World project](https://medium.com/@ai.for.mankind/seeing-the-world-project-ef3cc5fd692a)
  
- **Our wildfire smoke detection project was also selected for [Microsoft AI For Earth](https://www.microsoft.com/en-us/ai/ai-for-earth)'s grant.
+ **Our wildfire smoke detection project** was also selected for [Microsoft AI For Earth](https://www.microsoft.com/en-us/ai/ai-for-earth)'s grant.
  
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
