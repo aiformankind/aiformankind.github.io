@@ -6,7 +6,7 @@ Here are some of the projects we are working on.
      - Build/train wildfire detectors
      - Improve existing production detectors
      - Train nite time wildfire detectors
-     - Build Depth estimation model from single monocular image to determine the lat/long of detected wildfire
+     - Build depth estimation model from single monocular image to determine the lat/long of detected wildfire
      - Build GAN to generate synthetic smoke images
      - Deploy prod detectors to run on edge devices
 
