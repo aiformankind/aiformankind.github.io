@@ -28,10 +28,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
    [Sign up now](https://us02web.zoom.us/meeting/register/tZUpc-qqrD0uHdOW_U-6LJRW_Y2DqYm9LoXp)
    
    Tech Talk 1: "Computer Vision for Wildlife Monitoring" by Sara Beery
-   
-   Tech Talk 2: "Ethical data labeling" by Iva Gumnishka
 
 ## Past Events
+- [Ethical Data Labeling](https://youtu.be/4Ky3u_7O2Bc) by Iva Gumnishka
 - [Lets Stop Wildfires Hackathon 2.0 Information Session](https://www.meetup.com/AI-for-Mankind/events/271355075/) Sunday June 28 at 9 am Pacific Time
 - [Lets Annotate Wildfire Smoke Images](https://www.meetup.com/AI-for-Mankind/events/270718685/) May 30 at 10 am Pacific Time
 - [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/) to build deployable wildfire smoke detector. Register [Now](https://forms.gle/wM7zRPFMUQptpygX9)
