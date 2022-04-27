@@ -23,14 +23,12 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 - [Presentations](https://www.youtube.com/channel/UCyosmgDqG3jfZ4_aYsN94Lw)
 
 ## Upcoming Events
-- AI For Mankind Tech Talk on Saturday April 17 at 9 am Pacific Time 
-
-   [Sign up now](https://us02web.zoom.us/meeting/register/tZUpc-qqrD0uHdOW_U-6LJRW_Y2DqYm9LoXp)
-   
-   Tech Talk 1: "Computer Vision for Wildlife Monitoring" by Sara Beery
+- 
 
 ## Past Events
-- [Ethical Data Labeling](https://youtu.be/4Ky3u_7O2Bc) by Iva Gumnishka
+- [Advancing Cyberbullying Detection with Psychological Insights and Complex Media Data](https://youtu.be/bNX5ipv3kuw) by Lu Cheng on April 2 2022 at 9 am Pacific Time 
+- [Computer Vision for Wildlife Monitoring](https://youtu.be/e8bIE6aWkE0) by Sara Beery on Saturday April 17 2021 at 9 am Pacific Time 
+- [Ethical Data Labeling](https://youtu.be/4Ky3u_7O2Bc) by Iva Gumnishka on Saturday April 17 2021 at 9 am Pacific Time 
 - [Lets Stop Wildfires Hackathon 2.0 Information Session](https://www.meetup.com/AI-for-Mankind/events/271355075/) Sunday June 28 at 9 am Pacific Time
 - [Lets Annotate Wildfire Smoke Images](https://www.meetup.com/AI-for-Mankind/events/270718685/) May 30 at 10 am Pacific Time
 - [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/) to build deployable wildfire smoke detector. Register [Now](https://forms.gle/wM7zRPFMUQptpygX9)
