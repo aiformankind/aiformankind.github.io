@@ -13,6 +13,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
+## Sign up for Monthly Volunteers Sync up Meeting
+- [Cyberbullying Detection Project Signup](https://forms.gle/tZqHE2SMbGqv6bpS7)
+
 ## Join Our Meetup Group
 - [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/) to receive event announcement.
 
