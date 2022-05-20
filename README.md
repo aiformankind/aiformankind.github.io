@@ -10,11 +10,14 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
  
  **Our wildfire smoke detection project** was also selected for [Microsoft AI For Earth](https://www.microsoft.com/en-us/ai/ai-for-earth)'s grant.
  
+## Latest News on Wildfire Detection System.
+- We started our system for 2022 wildfire season on May 13. Our system processes images from 175 cameras.
+ 
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 ## Sign up for Monthly Volunteers Sync up Meeting
-- [Cyberbullying Detection Project Signup](https://forms.gle/tZqHE2SMbGqv6bpS7)
+- [Cyberbullying Detection + Wildfire Detection Projects Signup](https://forms.gle/tZqHE2SMbGqv6bpS7)
 
 ## Join Our Meetup Group
 - [Join AI For Mankind Meetup Group](https://www.meetup.com/AI-for-Mankind/) to receive event announcement.
