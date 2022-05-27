@@ -12,6 +12,13 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
  
 ## Latest News on Wildfire Detection System.
 - We started our system for 2022 wildfire season on May 13. Our system processes images from 175 cameras.
+
+Checkout some of our detection notification tweets. 
+
+![detection_tweet_notification](tweet_notification.png) 
+
+![Help_verify_fire](helpVerify.png)
+
  
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
