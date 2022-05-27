@@ -15,9 +15,9 @@ AI For Mankind was founded by [Wei Shung Chung](https://www.linkedin.com/in/wei-
 
 Checkout some of our detection notification tweets. 
 
-![detection_tweet_notification](tweet_notification.png) 
+<img src="tweet_notification.png" alt="tweet notification" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="300"/>
 
-![Help_verify_fire](helpVerify.png)
+<img src="helpVerify.png" alt="help verify" align="right" style="float: left; margin: 3px 12px 3px 0px;" width="300"/>
 
  
 ## Join Our Slack Channel
