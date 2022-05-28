@@ -20,6 +20,9 @@ Checkout some of our detection notification tweets.
 
 <img src="helpVerify.png" alt="help verify"  width="300"/>
 <br clear="right"/>
+
+<img src="retweets.png" alt="retweets"  width="300"/>
+<br clear="right"/>
  
 ## Join Our Slack Channel
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
